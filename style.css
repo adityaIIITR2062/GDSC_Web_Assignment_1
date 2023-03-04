@@ -6,11 +6,13 @@
 .main_heading{
   font-size: 30px;
   color: #e2dada;
+  font-weight: bold;
 }
 
 .sub_heading{
     font-size: 20px;
     color: #e2dada;
+    font-weight: bold;
   }
 
 
