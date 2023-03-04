@@ -1,0 +1,58 @@
+.task {
+  background: rgb(30, 30, 30);
+  padding-left: 25%;
+}
+
+.main_heading{
+  font-size: 30px;
+  color: #e2dada;
+}
+
+.sub_heading{
+    font-size: 20px;
+    color: #e2dada;
+  }
+
+
+/* background-image: linear-gradient(to right, #434343 0%, black 100%); */
+
+input[type="text"] {
+  background-color: #444;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  width: 65%;
+  border-radius: 10px;
+}
+
+#task_add {
+    background-color: #333;
+    color: transparent;
+    font: size 20px;
+    font-weight: bold;
+    background-image: linear-gradient(to right, #f00, #00f);
+    -webkit-background-clip: text;
+    background-clip: text;
+    border: none;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0
+  /* color: linear-gradient(to top, #0250c5 0%, #d43f8d 100%); */
+}
+
+button {
+    background-color: #333;
+    color: transparent;
+    font: size 20px;
+    font-weight: bold;
+    background-image: linear-gradient(to right, #f00, #00f);
+    -webkit-background-clip: text;
+    background-clip: text;
+    border: none;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0
+}
